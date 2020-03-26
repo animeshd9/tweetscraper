@@ -1,6 +1,6 @@
 
 import re
-from  textblob import TextBlob
+# from  textblob import TextBlob
 from datetime import date
 import GetOldTweets3 as got
 end_date=date.today()
